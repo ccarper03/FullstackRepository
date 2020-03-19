@@ -1,0 +1,18 @@
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Data\obj\Debug\BookManager.Data.csprojAssemblyReference.cache
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Data\obj\Debug\BookManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Data\bin\Debug\BookManager.Data.dll
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Data\bin\Debug\BookManager.Data.pdb
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Data\bin\Debug\BookManager.Models.dll
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Data\bin\Debug\BookManager.Models.pdb
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Data\obj\Debug\BookManager.Data.csproj.CopyComplete
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Data\obj\Debug\BookManager.Data.dll
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Data\obj\Debug\BookManager.Data.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Data\bin\Debug\BookManager.Data.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Data\bin\Debug\BookManager.Data.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Data\bin\Debug\BookManager.Models.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Data\bin\Debug\BookManager.Models.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Data\obj\Debug\BookManager.Data.csprojAssemblyReference.cache
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Data\obj\Debug\BookManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Data\obj\Debug\BookManager.Data.csproj.CopyComplete
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Data\obj\Debug\BookManager.Data.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Data\obj\Debug\BookManager.Data.pdb

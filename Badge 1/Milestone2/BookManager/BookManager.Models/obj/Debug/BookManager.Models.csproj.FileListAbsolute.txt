@@ -1,0 +1,12 @@
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Models\bin\Debug\BookManager.Models.dll
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Models\bin\Debug\BookManager.Models.pdb
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Models\obj\Debug\BookManager.Models.csprojAssemblyReference.cache
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Models\obj\Debug\BookManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Models\obj\Debug\BookManager.Models.dll
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.Models\obj\Debug\BookManager.Models.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Models\bin\Debug\BookManager.Models.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Models\bin\Debug\BookManager.Models.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Models\obj\Debug\BookManager.Models.csprojAssemblyReference.cache
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Models\obj\Debug\BookManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Models\obj\Debug\BookManager.Models.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.Models\obj\Debug\BookManager.Models.pdb

@@ -1,0 +1,18 @@
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.View\bin\Debug\BookManager.View.dll
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.View\bin\Debug\BookManager.View.pdb
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.View\bin\Debug\BookManager.Models.dll
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.View\bin\Debug\BookManager.Models.pdb
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.View\obj\Debug\BookManager.View.csprojAssemblyReference.cache
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.View\obj\Debug\BookManager.View.csproj.CoreCompileInputs.cache
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.View\obj\Debug\BookManager.View.csproj.CopyComplete
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.View\obj\Debug\BookManager.View.dll
+C:\Users\ccarp\Desktop\BookManager\BookManager\BookManager.View\obj\Debug\BookManager.View.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.View\obj\Debug\BookManager.View.csprojAssemblyReference.cache
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.View\obj\Debug\BookManager.View.csproj.CoreCompileInputs.cache
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.View\obj\Debug\BookManager.View.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.View\obj\Debug\BookManager.View.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.View\bin\Debug\BookManager.View.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.View\bin\Debug\BookManager.View.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.View\bin\Debug\BookManager.Models.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.View\bin\Debug\BookManager.Models.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Milestone2\BookManager\BookManager.View\obj\Debug\BookManager.View.csproj.CopyComplete

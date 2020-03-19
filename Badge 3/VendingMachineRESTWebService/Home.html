@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Vending Machine</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h1 style="text-align: center">Vending Machine</h1>
+                <hr />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-9">
+                <div class="row" id="itemBoxes">
+                    <div class="col-4" id="itemTemplate">
+                        Items not yet loaded...
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="row" id="moneyIn">
+                    <div class="col text-center">
+                        <div class="h3">Total $ In</div>
+                        <div class="h3 bg-light ">$<span id="money">0.00</span></div>
+                        <div class=" row">
+                            <button class="btn btn-primary col-6" onclick="add(100)">Add Dollar</button>
+                            <button class="btn btn-primary col-6" onclick="add(25)">Add Quarter</button>
+                            <button class="btn btn-primary col-6" onclick="add(10)">Add Dime</button>
+                            <button class="btn btn-primary col-6" onclick="add(5)">Add Nickel</button>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="row" id="messages">
+                    <div class="col text-center">
+                        <div class="h3">Messages</div>
+                        <textarea class="h6 bg-light " id="messageBox" rows="3" readonly></textarea>
+                        <div class="row">
+                            <div class="col-6 text-right">
+                                <label for="itemID" class="h4">Item: </label>
+                            </div>
+                            <div class="col-6 text-left">
+                                <textarea class="h4 bg-light " rows="1" cols="2" id="itemID" readonly></textarea>
+                            </div>
+                        </div>
+                        <button class="btn btn-primary" onclick="purchase()">Make purchase</button>
+                    </div>
+                </div>
+                <hr />
+                <div class="row" id="change">
+                    <div class="col text-center">
+                        <div class="h3">Change</div>
+                        <textarea class="h6 bg-light " id="changeBox" rows="4" readonly></textarea>
+                        <button class="btn btn-primary" onclick="change()">Change Return</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <input type="number" hidden value="0" id="number">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/home.js"></script>
+</body>
+
+</html>

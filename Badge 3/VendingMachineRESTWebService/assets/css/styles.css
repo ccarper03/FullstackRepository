@@ -1,0 +1,10 @@
+.form-control-sm {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table td, .table th {
+  border: none;
+}
+

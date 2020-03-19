@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGBank.UI", "SGBank.UI\SGBank.UI.csproj", "{3275F3E6-0FFD-4A25-9C1D-EC427516C7EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGBank.Models", "SGBank.Models\SGBank.Models.csproj", "{4629E6B7-94B5-4629-A394-D7E6EA5B41BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGBank.Data", "SGBank.Data\SGBank.Data.csproj", "{CB52697B-4489-4F33-AAC6-9FB45E8F8745}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{08573973-3CFF-4E90-BC73-04B6E14E7C6A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\..\Desktop\data example.PNG = ..\..\..\..\..\..\..\Desktop\data example.PNG
+		..\..\..\..\..\..\..\Desktop\Factory Definition.PNG = ..\..\..\..\..\..\..\Desktop\Factory Definition.PNG
+		..\..\..\..\..\..\..\Desktop\Layers.PNG = ..\..\..\..\..\..\..\Desktop\Layers.PNG
+		..\..\..\..\..\..\..\Desktop\note when to use interfaces.PNG = ..\..\..\..\..\..\..\Desktop\note when to use interfaces.PNG
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGBanks.BLL", "SGBanks.BLL\SGBanks.BLL.csproj", "{B14DFB3F-8566-45F2-BB9B-64D20D90BCEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGBanks.Tests", "SGBanks.Tests\SGBanks.Tests.csproj", "{6948101F-CF56-492E-89E3-40BE0C1044BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3275F3E6-0FFD-4A25-9C1D-EC427516C7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3275F3E6-0FFD-4A25-9C1D-EC427516C7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3275F3E6-0FFD-4A25-9C1D-EC427516C7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3275F3E6-0FFD-4A25-9C1D-EC427516C7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4629E6B7-94B5-4629-A394-D7E6EA5B41BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4629E6B7-94B5-4629-A394-D7E6EA5B41BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4629E6B7-94B5-4629-A394-D7E6EA5B41BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4629E6B7-94B5-4629-A394-D7E6EA5B41BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB52697B-4489-4F33-AAC6-9FB45E8F8745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB52697B-4489-4F33-AAC6-9FB45E8F8745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB52697B-4489-4F33-AAC6-9FB45E8F8745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB52697B-4489-4F33-AAC6-9FB45E8F8745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14DFB3F-8566-45F2-BB9B-64D20D90BCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14DFB3F-8566-45F2-BB9B-64D20D90BCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14DFB3F-8566-45F2-BB9B-64D20D90BCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14DFB3F-8566-45F2-BB9B-64D20D90BCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6948101F-CF56-492E-89E3-40BE0C1044BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6948101F-CF56-492E-89E3-40BE0C1044BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6948101F-CF56-492E-89E3-40BE0C1044BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6948101F-CF56-492E-89E3-40BE0C1044BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D797B2F-52A8-4BC2-BD75-74FCFBFDBCEC}
+	EndGlobalSection
+EndGlobal

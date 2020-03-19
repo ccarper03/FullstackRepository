@@ -1,0 +1,27 @@
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\SGBank.Data.deps.json
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\SGBank.Data.dll
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\SGBank.Data.pdb
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\SGBank.Models.dll
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\SGBank.Models.pdb
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.csprojAssemblyReference.cache
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.AssemblyInfoInputs.cache
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.AssemblyInfo.cs
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.csproj.CopyComplete
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.dll
+C:\Users\CarperC\Desktop\online-net-ccarper03-m3-summative\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\SGBank.Data.deps.json
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\SGBank.Data.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\SGBank.Data.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\SGBank.Models.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\SGBank.Models.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.csprojAssemblyReference.cache
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.AssemblyInfoInputs.cache
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.AssemblyInfo.cs
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.csproj.CopyComplete
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\obj\Debug\netstandard2.0\SGBank.Data.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\ccarp\My Cloud\tsg bootcamp\online-net-ccarper03\Summatives\Badge 2\Milestone 2\SGBank\SGBank.Data\bin\Debug\netstandard2.0\nunit.engine.api.dll
